@@ -1,6 +1,6 @@
 ## Hi there!! 👋
 
-**Paul here.**  I'm currently a _Cloud Platform Team Lead_ for [National Information Solutions Cooperative (NISC)](https://www.nisc.coop/) in [Lake St. Louis, Missouri](https://www.google.com/maps/place/Lake+St+Louis,+MO/@38.7734922,-95.2744848,6z/data=!4m5!3m4!1s0x87ded06657c1d3bb:0xdb8a4e9fb3096f21!8m2!3d38.7809384!4d-90.7883604).
+**Paul here.**  I'm currently a _Developer Advocate_ for the [k6](https://k6.io/) project at [Grafana Labs](https://grafana.com/). In this role, I'm hoping to ease the pains of Site Reliability Engineers making use of our products. 
 
 I've been developing software professionally since around 1997 after a major career change from accountancy.  Creating automated sales and profitability analyses using _VisualBasic for Applications_ within _Microsoft Excel_ piqued my interest, so I decided to take a class in _C++_ (you can overload operators?!)...I was hooked!  Now I knew my true passion was for designing and implementing software solutions.
 
