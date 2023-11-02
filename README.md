@@ -13,6 +13,6 @@ If you're in need of a contributor or have something interesting; **I just may s
 
 * Keep up with me on [LinkedIn](https://www.linkedin.com/in/pabalogh/) or [javaducky.com](https://javaducky.com/)
 * Follow me on [Twitter(X)](https://twitter.com/javaducky)
-* See me on the [StLGo Meetup Channel](https://www.youtube.com/@stlgomeetup)
+* Watch me on the [StLGo Meetup Channel](https://www.youtube.com/@stlgomeetup) and [at work](https://www.youtube.com/playlist?list=PLnriz8c41SmSmu__2YUb1qh7HlFRLpcvi).
 
 If you'd like me to speak to your group or other details, check out my [speaker information](speaker/).
