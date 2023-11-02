@@ -6,11 +6,13 @@ I've been developing software professionally since around 1997 after a major car
 
 I started my professional software career writing in _Visual FoxPro_ and _VisualBasic_.  I then moved on to _Java_ shortly after Y2K, continuing with that for many, many years.  I've also done some _C#_, _Python_, and even a little _Perl_. 
 
-Cloud technologies are my bag these days; [Kubernetes](https://kubernetes.io/), [Linkerd](https://linkerd.io/), [Helm](https://helm.sh/), and [Kafka](https://kafka.apache.org/).  My latest obsession is the [Go](https://golang.org/) programming language; mostly because it's different and fun for me.  I'm even the organizer for the [St. Louis Go Meetup](https://www.meetup.com/StL-Go/) group.
+As a _CNCF Ambassador_, cloud native technologies are my bag these days; [Kubernetes](https://kubernetes.io/), [Linkerd](https://linkerd.io/), [Helm](https://helm.sh/), [Kafka](https://kafka.apache.org/), etc.  My latest obsession is the [Go](https://golang.org/) programming language; mostly because it's different and fun for me.  With this, I help out the community as a _GoBridge Ambassador_ and I'm even the organizer for the [St. Louis Go Meetup](https://www.meetup.com/StL-Go/), [Kubernetes & Cloud Native STL](https://community.cncf.io/saint-louis/), [Grafana & Friends - St. Louis](https://www.meetup.com/grafana-friends-st-louis-meetup-group/), and [MO Reliability](https://www.meetup.com/mo-reliability/)  groups.
 
 ## Hit me up...
-if you're in need of a contributor or have something interesting; **I just may say 'yes'!**
+If you're in need of a contributor or have something interesting; **I just may say 'yes'!**
 
 * Keep up with me on [LinkedIn](https://www.linkedin.com/in/pabalogh/) or [javaducky.com](https://javaducky.com/)
-* Follow me on [Twitter](https://twitter.com/javaducky)
-* Join me at the [StLGo Meetup](https://www.meetup.com/StL-Go/)
+* Follow me on [Twitter(X)](https://twitter.com/javaducky)
+* See me on the [StLGo Meetup Channel](https://www.youtube.com/@stlgomeetup)
+
+If you'd like me to speak to your group or other details, check out my [speaker information](speaker/).
