@@ -1,6 +1,6 @@
 ## Interested in having me as a speaker?
 
-Would you like to discuss having me speak at your event? It's a definite _maybe_! Please reach out to me first, then [book some time that we can talk about it](https://calendly.com/paul-at-grafana).
+Would you like to discuss having me speak at your event? It's a definite _maybe_! Please reach out to me first, then [book some time that we can talk about it](https://calendly.com/cloudgnome/15min).
 
 ## Speaker Bio:
 
