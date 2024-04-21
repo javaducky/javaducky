@@ -16,3 +16,5 @@ If you're in need of a contributor or have something interesting; **I just may s
 * Watch me on the [StLGo Meetup Channel](https://www.youtube.com/@stlgomeetup) and [at work](https://www.youtube.com/playlist?list=PLnriz8c41SmSmu__2YUb1qh7HlFRLpcvi).
 
 If you'd like me to speak to your group or other details, check out my [speaker information](speaker/).
+
+If you like the things I've been doing and want to help me keep going, please consider [buying me a beer](https://www.buymeacoffee.com/cloudgnome).

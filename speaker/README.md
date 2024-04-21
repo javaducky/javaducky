@@ -4,7 +4,7 @@ Would you like to discuss having me speak at your event? It's a definite _maybe_
 
 ## Speaker Bio:
 
-Paul is a CNCF Ambassador, GoBridge Ambassador, and a Developer Advocate at Grafana Labs. In this role, he encourages developers and testers alike to "shift left," bringing reliability testing earlier in the software development process. He's been a software engineer/architect for over 25 years, programming in various languages and platforms. Working with the open source community around cloud technologies like k6, Kubernetes, and Kafka, among others, keeps him young, as do his interests in punk rock music and playing bass guitar.
+Paul is a CNCF Ambassador, GoBridge Ambassador, Software Architect, and Developer Advocate. In his many roles, he has encouraged developers and testers alike to "shift left," bringing reliability testing earlier in the software development process. He's been a software engineer/architect for over 25 years, programming in various languages and platforms. Working with the open source community around cloud technologies like Grafana k6, Kubernetes, and Kafka, among others, keeps him young, as do his interests in punk rock music and playing bass guitar.
 
 ## Profile Images:
 
