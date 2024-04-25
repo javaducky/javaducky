@@ -1,6 +1,6 @@
 ## Hi there!! 👋
 
-**Paul here.**  I'm currently a CNCF Ambassador, a friend of GoBridge, software architect, developer advocate. You may have seen me online or speaking during my experience as a Developer Advocate at [k6](https://k6.io/) and [Grafana Labs](https://grafana.com/). With any of these roles, I'm hoping to ease the pains of Developers, Site Reliability Engineers, and Testers all while creating some fun learning. 
+**Paul here.**  I'm currently a CNCF Ambassador, a friend of GoBridge, software architect, and developer advocate. You may have seen me online or speaking as a _Software Architect_ at [NISC](https://nisc.coop/) or during my experience as a _Developer Advocate_ at [k6](https://k6.io/) and [Grafana Labs](https://grafana.com/). With any of these roles, I'm hoping to ease the pains of Developers, Site Reliability Engineers, and Testers all while creating some fun learning. 
 
 I've been developing software professionally since around 1997 after a major career change from accountancy. Creating automated sales and profitability analyses using _VisualBasic for Applications_ within _Microsoft Excel_ piqued my interest, so I decided to take a class in _C++_ (you can overload operators?!)...I was hooked! Now I knew my true passion was for designing and implementing software solutions.
 
